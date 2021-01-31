@@ -1,3 +1,4 @@
 newfile:wq
 `:
-	
+s is a newfile to work on:wq
+:wq	
